@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BRD1,128x64OLED,1,SSD1306,
+BT1,BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
+"C1, C2",CAPC1005X55N,2,C,
+"R1, R2",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,2,R,
+SW1,SW_PUSH_6mm,1,SW_Push,
+U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
+U2,XDCR_BH1750FVI-TR,1,BH1750FVI-TR,

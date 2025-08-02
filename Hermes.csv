@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"Brd1","1","SSD1306","","","","Hermes-footprints:128x64OLED",""
+"BT1","1","Battery_Cell","","","","Battery:BatteryHolder_Keystone_3034_1x20mm","~"
+"C1,C2","2","C","","","","Hermes-footprints:CAPC1005X55N","~"
+"R1,R2","2","R","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","~"
+"SW1","1","SW_Push","","","","Button_Switch_THT:SW_PUSH_6mm","~"
+"U1","1","XIAO-RP2040-DIP","","","","Hermes-footprints:XIAO-RP2040-DIP",""
+"U2","1","BH1750FVI-TR","","","","Hermes-footprints:XDCR_BH1750FVI-TR",""

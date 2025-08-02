@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Hermes-footprints")(type "KiCad")(uri "${KIPRJMOD}/Resources/Hermes-footprints")(options "")(descr ""))
+)
