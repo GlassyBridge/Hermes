@@ -17,20 +17,20 @@ A simple hardware project that features an Ambient Light Sensor and 0.96" OLED s
 
 ### Schematic
 
-![Schematic](<Images/Schematic.png>)
+![Schematic](images/Schematic.png)
 
 ### PCB
 
-![PCB](<Images/PCB-F.png>)
-![PCB](<Images/PCB-B.png>)
+![PCB](images/PCB-F.png)
+![PCB](images/PCB-B.png)
 
 ### 3D Front View
 
-![3D-Front](<Images/3D-Front.png>)
+![3D-Front](images/3D-Front.png)
 
 ### 3D Back View
 
-![3D-Back](<Images/3D-Back.png>)
+![3D-Back](images/3D-Back.png)
 ---
 
 ## Firmware
